@@ -339,4 +339,8 @@ Partial Class Form2
     Friend WithEvents DataGridView1 As DataGridView
     Friend WithEvents TextBox5 As TextBox
     Friend WithEvents Button6 As Button
+
+    Private Sub Form2_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
 End Class
